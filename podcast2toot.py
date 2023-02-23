@@ -99,8 +99,9 @@ def process_feed(feed_url, cache_file):
         en['title'] = entry['title']
         en['link'] = entry['link']
         for link in entry.get('links', []):
-            if link['type'].startswith('audio') or link['type'].startswith('video'):
-                en['link'] = link['href']
+            if link['type'].startswith('audio'):
+                en['audio'] = link['href']
+                en['audio-type'] = link['type']
         en['author'] = False       
         en['tags'] = [x['term'] for x in entry.get('tags', [])]
         en['author'] = entry.get('author')
