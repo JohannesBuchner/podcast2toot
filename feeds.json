@@ -1,0 +1,89 @@
+[
+	{
+		"url": "https://www.theskepticsguide.org/podcasts/feed",
+		"stop": "The post Episode",
+		"tags": ["skeptics-guide-podcast", "podcast", "bot"],
+		"lang": "en"
+	},
+	{
+		"url": "https://feed.skeptoid.com/",
+		"tags": ["Skeptoid-podcast", "podcast", "bot"],
+		"lang": "en"
+	},
+	{
+		"url": "http://ourfakehistory.libsyn.com/rss",
+		"tags": ["OurFakeHistory-podcast", "podcast", "bot"],
+		"lang": "en"
+	},
+	{
+		"url": "https://www.ancienthistoryfangirl.com/feed/",
+		"stop": "The post ",
+		"tags": ["AncientHistoryFanGirl-podcast", "podcast", "bot"],
+		"lang": "en"
+	},
+	{
+		"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxqV7wn5EyyHiaSnKvTguAQ",
+		"stop": "Kontakt und Trinkgeldhut",
+		"tags": ["EinMannImWald-vodcast", "podcast", "bot"],
+		"lang": "de"
+	},
+	{
+		"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNNEMxGKV1LsKZRt4vaIbvw",
+		"stop": "Das ZDF Magazin Royale - ",
+		"tags": ["ZDFMagazinRoyale-vodcast", "podcast", "bot"],
+		"lang": "de"
+	},
+	{
+		"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow",
+		"stop": "Hosted by",
+		"tags": ["scishow-vodcast", "podcast", "bot"],
+		"lang": "en"
+	},
+	{
+		"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1w6pNGiiLdZgyNpXUnA4Zw",
+		"stop": "Hosted by",
+		"tags": ["DerSpiegel-vodcast", "podcast", "bot"],
+		"lang": "de"
+	},
+	{
+		"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLLibJTCy3sXjHLVaDimnpQ",
+		"stop": "Video verfügbar bis zum",
+		"tags": ["ArteDE-vodcast", "podcast", "bot"],
+		"lang": "de"
+	},
+	{
+		"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q",
+		"stop": "This video was sponsored by",
+		"tags": ["Kurzgesagt-vodcast", "podcast", "bot"],
+		"lang": "en"
+	},
+	{
+		"url": "https://astrogeo.de/feed/",
+		"tags": ["AstroGeo-podcast", "podcast", "bot"],
+		"lang": "de"
+	},
+	{
+		"url": "https://halbekatoffl.de/feed/mp3/",
+		"stop": "Der Halbe Katoffl Podcast ist",
+		"tags": ["halbekatoffl-podcast", "podcast", "bot"],
+		"lang": "de"
+	},
+	{
+		"url": "https://www.swr.de/~podcast/swr2/programm/podcast-swr2-wissen-100.xml",
+		"stop": " | Mehr zur Sendung:",
+		"tags": ["swr2-wissen-podcast", "podcast", "bot"],
+		"lang": "de"
+	},
+	{
+		"url": "https://newsfeed.zeit.de/wissen/zeit-wissen/index",
+		"tags": ["ZeitWissen-podcast", "podcast", "bot"],
+		"lang": "de"
+	},
+	{
+		"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmmPgObSUPw1HL2lq6H4ffA",
+		"tags": ["GeographyNow-vodcast", "podcast", "bot"],
+		"stop": "Check out ",
+		"lang": "en"
+	}
+
+]
